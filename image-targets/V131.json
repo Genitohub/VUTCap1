@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 2,
+    "left": 0,
+    "width": 896,
+    "height": 1194,
+    "isRotated": true,
+    "originalWidth": 896,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/V131_luminance.jpg",
+  "metadata": null,
+  "name": "V131",
+  "resources": {
+    "originalImage": "V131_original.jpg",
+    "croppedImage": "V131_cropped.jpg",
+    "thumbnailImage": "V131_thumbnail.jpg",
+    "luminanceImage": "V131_luminance.jpg"
+  },
+  "created": 1789510822864,
+  "updated": 1789510822864
+}
